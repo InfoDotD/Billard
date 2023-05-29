@@ -27,7 +27,7 @@ public class Steuerprogramm_Billard
         hK31 = new Kugel3(200, 300);
         
         hK4 = new Kugel4(400, 400, 80, 7);
-        hK5 = new Kugel4(300, 300, 50, 9);
+        hK5 = new Kugel5(300, 300, 50, 9);
         this.spiele();
     }
 
@@ -41,6 +41,7 @@ public class Steuerprogramm_Billard
             hK2.bewege();
             hK31.bewege();
             hK4.bewege(); 
+            hK5.bewege(); 
         }
     }
 }

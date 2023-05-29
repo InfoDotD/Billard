@@ -1,11 +1,11 @@
 
 import sum.kern.*;
-public class Kugel4
+public class Kugel5
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     Buntstift hB;
     
-    public Kugel4(int pH, int pV, int pWinkel, int pFarbe)
+    public Kugel5(int pH, int pV, int pWinkel, int pFarbe)
     {
         hB = new Buntstift();
         hB.bewegeBis(pH,pV);
