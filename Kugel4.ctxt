@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kugel4
+comment1.params=pH\ pV\ pWinkel\ pFarbe
+comment1.target=Kugel4(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ zeichne()
+comment3.params=
+comment3.target=void\ loesche()
+comment4.params=
+comment4.target=void\ bewege()
+comment5.params=
+comment5.target=void\ pralleAb()
+numComments=6
